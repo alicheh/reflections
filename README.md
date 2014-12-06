@@ -12,4 +12,5 @@ did not in fact create! The bugs are intended to give learners experience using
 Git to find the commit where a bug was introduced. To play the modified version
 of the game, simply open the index.html file in your web browser.
 
-Many thanks to Doug for creating this awesome game.
+Many thanks to Doug for creating this awesome game. 
+I changed this line just for test the conflict!:)
